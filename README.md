@@ -47,12 +47,6 @@ Esto iniciará la aplicación en tu navegador predeterminado. Desde allí, podr�
 - **Tailwinds CSS:** Lenguaje de estilo utilizado para el diseño y la presentación de la aplicación.
 - **HTML:** Lenguaje de marcado utilizado para la estructura de la aplicación.
 
-
-## Vista Previa 
-
-![스크린샷 2024-04-02 오전 8 12 48](https://github.com/Juanjaure31/PokeApi-Lexpin/assets/147447485/1e7a40d3-edf8-478f-ad4c-abebee97a0cf)
-
-
 ## Licencia
 
 Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).
