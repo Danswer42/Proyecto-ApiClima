@@ -24,9 +24,10 @@ cd ApiClima
 ```Terminal
 npm install
 ```
-4. **Instala la extension axios al proyecto utilizando:**
+4. **Instala las siguientes extensiones al proyecto utilizando:**
 ```Terminal
 npm install axios
+npm install react-switch
 ```
 
 ## Uso
